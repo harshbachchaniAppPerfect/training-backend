@@ -1,0 +1,24 @@
+{
+    "students":[
+        {
+            "id":1,
+            "name":"Scott",
+            "result":"Pass"
+        },
+        {   
+            "id":2,
+            "name":"Harry",
+            "result":"Fail"
+        },
+        {   
+            "id":3,
+            "name":"Seldon",
+            "result":"Fail"
+        },
+        {   
+            "id":4,
+            "name":"Henry",
+            "result":"Pass"
+        }
+    ]
+}
